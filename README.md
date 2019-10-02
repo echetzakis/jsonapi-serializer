@@ -1,5 +1,8 @@
-# JSON API Serializer
+This is a forked version which incorporates the following PR:
 
+* [Don't set `included.relationships` if empty](https://github.com/SeyZ/jsonapi-serializer/pull/209)
+
+# JSON API Serializer
 <p align="center">
   <img src="https://github.com/SeyZ/jsonapi-serializer/blob/master/logo.jpg?raw=true" alt="JSONAPI Serializer Logo">
 </p>
